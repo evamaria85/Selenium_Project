@@ -24,7 +24,6 @@ public class HomePageTest {
     public void test1(){
 
         System.out.println("this is a test");
-        System.out.println("testing git");
         System.out.println("making another");
     }
 }
